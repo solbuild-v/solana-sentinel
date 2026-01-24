@@ -26,17 +26,26 @@ I have deployed a test environment to demonstrate the scanner's capabilities:
    git clone [https://github.com/solbuild-v/solana-sentinel.git](https://github.com/solbuild-v/solana-sentinel.git)
 
 2. Install dependencies:
-
+   ```bash
    npm install
 
 3. Run the analysis:
-
+   ```bash
    node scanner.js
+🌐 Switching to Mainnet
+By default, the scanner runs on Devnet. To analyze real tokens on the Mainnet, update the connection string in scanner.js:
 
+```
+const connection = new Connection("https://api.mainnet-beta.solana.com", "confirmed");
+```
 🗺️ Roadmap (Grant Goals)
+
 With support, I plan to expand this toolkit:
+
 Jito Integration: Checking if a token launch was bundled (sniped).
+
 Metadata Mutable Check: Verifying if developers can change token images/names after launch.
+
 Web Interface: Moving from CLI to a React-based dashboard.
 
 Built with ❤️ on Solana.
