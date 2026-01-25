@@ -17,7 +17,7 @@ I am a **17-year-old developer** building high-performance tools aimed at making
 
 ## 🛠️ Proof of Concept (Devnet)
 I have deployed a test environment to demonstrate the scanner's capabilities:
-* **Developer Wallet:** `FCezndYeQp8H7CZN8cghTKHYGWjSzW1eLiT2gb7cMuEQ`
+* **Developer Wallet:** `4MLhLEJDQMxrzHCbr2tCTPny7NV67qr8qzKv6wji7DK7`
 * **Test Subject (Token):** `2wJqSjHmXVnb7rKFwoyRZnhVxpWn1do8Gys288aFDBgW`
 
 ## 💻 How to Run
@@ -49,3 +49,4 @@ Metadata Mutable Check: Verifying if developers can change token images/names af
 Web Interface: Moving from CLI to a React-based dashboard.
 
 Built with ❤️ on Solana.
+
