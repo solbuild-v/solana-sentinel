@@ -1,6 +1,6 @@
 # 🛡️ Solana Sentinel v5.4: Real-Time Token Security Scanner
 
-![Solana](https://img.shields.io/badge/Solana-Devnet-blue)
+![Solana](https://img.shields.io/badge/Solana-Mainnet-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Developer](https://img.shields.io/badge/Built%20by-17yo%20Dev-orange)
 
@@ -50,3 +50,4 @@ With support, I plan to expand this toolkit:
 * **Auto-Execution**: Integrated module for safe-buy transactions.
 
 Built with ❤️ on Solana.
+
